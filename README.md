@@ -1,5 +1,5 @@
 ### 磐石如丝-知行思学群（集体的智慧和力量）
-群名：磐石如丝-知行思学群，这里是【群文件】整理的合计。[【群内容】整理合集](https://github.com/geekpanshi/panshirusi)
+群名：磐石如丝-知行思学群，这里是【群文件】整理的合集。[【群内容】整理合集](https://github.com/geekpanshi/panshirusi)
 
 ---
 
