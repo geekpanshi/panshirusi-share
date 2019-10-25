@@ -23,6 +23,11 @@
 #### [了解更多群信息](https://github.com/geekpanshi/panshirusi/blob/master/README.md)
 
 
+#### [读书荐书之我的书单](/读书荐书之我的书单.md)
+>
+> [读书荐书之我的书单](/读书荐书之我的书单.md)
+
+
 #### 加群方式
 > 加群二维码
 >>
